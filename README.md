@@ -12,8 +12,8 @@ To write a program to find the maximum of a list of numbers.
 ## Find-the-maximum-of-a-list-of-numbers
 
 ```
-Developed by: ALDRIN LIJO J E
-Ref no:22008844
+Developed by: Sanjay Ragavendar M K
+Ref no: 22009286
 ```
 
 i)	# To find the maximum of marks using the list method sort.
